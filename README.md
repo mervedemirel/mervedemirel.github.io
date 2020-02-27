@@ -1,1 +1,0 @@
-# mervedemirel.github.io
