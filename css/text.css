@@ -1,0 +1,7 @@
+@font-face {
+    font-family: DiloWorld;
+    src: url('/fonts/DiloWorld.ttf');
+}
+* {
+    font-family: DiloWorld;
+}
