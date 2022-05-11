@@ -66,4 +66,8 @@
     .scroll-down{
         top:85%;
     }
+    .footer__logo{
+      max-width: 300%;
+      width: 300%;
+    }
 }
