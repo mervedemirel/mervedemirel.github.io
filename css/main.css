@@ -78,3 +78,8 @@
     }
 
 }
+@media(min-width:90em){
+  .scroll-down{
+    margin-top: 20%;
+  }
+}
