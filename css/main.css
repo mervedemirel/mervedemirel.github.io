@@ -83,3 +83,23 @@
     margin-top: 20%;
   }
 }
+@media(max-width:1024px){
+  .shape--lg img{
+    padding-top: 35%;
+  }
+}
+  @media(max-width:850px){
+    .shape--lg img{
+      padding-top: 60%;
+    }
+}
+@media(max-width:950px){
+  .shape--lg img{
+    padding-top: 70%;
+  }
+}
+@media(max-width:800px){
+  .shape--lg img{
+    padding-top: 50%;
+  }
+}
